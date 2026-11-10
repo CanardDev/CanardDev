@@ -22,7 +22,19 @@ Mon anticheat maison. Il détecte la reach, le killaura, le fly, l'aim assist, e
 <img width="739" height="593" alt="image" src="https://github.com/user-attachments/assets/abd3fc93-977d-4347-95bb-042e83d3e732" />
 <img width="358" height="188" alt="image" src="https://github.com/user-attachments/assets/228dbc84-e206-4bf7-9a8b-53ecb540fbc1" />
 
-D'autres projets arrivent bientôt.
+
+
+
+### Plugins gratuits
+Open source, pour Paper 1.21+, en anglais et en français.
+
+- **[CanardHeadDrop](https://github.com/CanardDev/CanardHeadDrop)** : la tête d'un joueur tombe à sa mort (PvP / PvE, chance, limite, anti-renommage).
+- **[CanardInvBackup](https://github.com/CanardDev/CanardInvBackup)** : sauvegardes d'inventaire et d'ender chest, aperçu et restitution en une commande.
+- **[CanardDeathLog](https://github.com/CanardDev/CanardDeathLog)** : l'historique des morts de chaque joueur (cause, tueur, lieu, date).
+
+
+D'autres projets arrive bientôt! 
+
 
 ### Me contacter
 Je prends des commandes. Si tu as un projet en tête, écris-moi sur [Discord](https://discord.com/users/982732557365964881) et on en parle.
