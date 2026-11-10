@@ -17,7 +17,7 @@ Un système de claims pensé pour être simple pour les joueurs : rôles, permis
 <img width="354" height="243" alt="image" src="https://github.com/user-attachments/assets/3b82c4ae-1a6f-4c08-ae76-08ed7e59d752" />
 
 **AntiCheat**
-Mon anticheat maison. Il détecte le reach, la killaura, le fly, l'aide à la visée, et envoie les alertes sur Discord.
+Mon anticheat maison. Il détecte la reach, le killaura, le fly, l'aim assist, et envoie les alertes sur Discord.
 
 <img width="739" height="593" alt="image" src="https://github.com/user-attachments/assets/abd3fc93-977d-4347-95bb-042e83d3e732" />
 <img width="358" height="188" alt="image" src="https://github.com/user-attachments/assets/228dbc84-e206-4bf7-9a8b-53ecb540fbc1" />
